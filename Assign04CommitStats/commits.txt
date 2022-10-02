@@ -1,0 +1,6 @@
+000001 main.cpp ADD 100
+000002 main.cpp DEL 10
+a00001 source.cpp ADD 10
+a00002 source.cpp ADD 10
+a00003 source.cpp UPD 10
+------ 0 END 0
