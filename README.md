@@ -103,4 +103,4 @@ Press any key to close this window . .
 2.  The data file will contain at least one file and the sentinel line.
 3.  <b>IMPORTANT:</b> This is not a last minute assignment. There is a reason you have 12 days to complete this assignment. If you start this assignment the weekend before it’s due, there is a high likelihood that you will not finish. Remember also, the tutors are not going to write your code. They will help with a specific issue in your program.
 
-**Good luck! And remember, if you have any problems, come and see straight away.**
+**Good luck! And remember, if you have any problems, come and see straight away.:smile:**
